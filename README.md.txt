@@ -1,5 +1,6 @@
 Overview
-Sentify is a sentiment analysis project that classifies IMDB movie reviews as positive or negative using a neural network built with Keras. Leveraging the IMDB dataset, it showcases skills in natural language processing (NLP), data preprocessing, and deep learning, with an optional Flask web app for real-time predictions.
+Sentify is a sentiment analysis project that classifies IMDB movie reviews as positive or negative using a neural network built with Keras.
+Leveraging the IMDB dataset, it showcases skills in natural language processing (NLP), data preprocessing, and deep learning, with an optional Flask web app for real-time predictions.
 
 Features
 * Data Preprocessing: Loads and pads the IMDB dataset for uniform input.
